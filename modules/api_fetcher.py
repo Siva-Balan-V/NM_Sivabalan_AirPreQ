@@ -4,7 +4,7 @@ import pandas as pd
 import os
 import requests
 
-API_KEY = "2f686378-e430-48ed-8b8c-8c13304a8b50"  # Replace with your actual API key
+API_KEY = "give your own api key"  # Replace with your actual API key
 
 
 
