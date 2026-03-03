@@ -9,6 +9,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Team](#team)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
@@ -35,6 +36,20 @@ Air quality is a critical public health concern. AirPreQ allows users to:
 3. Fetch real-time pollution data for any city worldwide and get an AQI prediction.
 
 The backend trains two regression models (Linear Regression and Random Forest) on the available data and exposes predictions and evaluation metrics through a clean web interface.
+
+This project was built for the **Naan Mudhalvan** subject *Experienced Based Project Learning – Data Science*.
+
+---
+
+## Team
+
+| # | Name | Role |
+|---|---|---|
+| 1 | **Sivabalan V** | Team Leader / Project Manager |
+| 2 | **Dhyanesh V** | Backend & Deployment Developer |
+| 3 | **Semmozhiyan N S** | Machine Learning Engineer |
+| 4 | **Sri Sabarish U** | Data Collection & Preprocessing Lead |
+| 5 | **Chandru M** | Frontend Developer & Documentation Lead |
 
 ---
 
